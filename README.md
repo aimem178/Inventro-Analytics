@@ -48,9 +48,7 @@ The main objectives of Inventro Analytics were to:
 8. Provide reliable file storage and backup functionality.
 9. Demonstrate the application of Python programming concepts to a real-world business problem.
 
----
-
-# ⚙️ Core System Modules
+#  Core System Modules
 
 ## 1. Inventory Management
 
